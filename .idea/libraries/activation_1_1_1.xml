@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="activation-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafx.web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javafx-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jsoup-1.13.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
